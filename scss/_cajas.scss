@@ -1,0 +1,13 @@
+.caja1, .caja2{
+    padding:20px ;
+    border: 4px;
+    color: $color-white;
+    background-color: $bg-violet;
+}
+
+.caja1{
+    grid-area: caja1;
+}
+.caja2{
+    grid-area: caja2;
+}
